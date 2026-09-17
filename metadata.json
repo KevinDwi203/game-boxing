@@ -1,0 +1,6 @@
+{
+  "name": "3D Boxing Game",
+  "description": "A 3D browser-based boxing game featuring dynamic combat, opponent AI, low-poly arena crowd, and responsive third-person camera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
